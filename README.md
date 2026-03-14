@@ -6,6 +6,9 @@ A high-speed, professional-grade 90-ball lottery machine built with **Flutter**.
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6753713570)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/fUgv53gjgXc/0.jpg)](https://www.youtube.com/watch?v=fUgv53gjgXc)
+
 ## 🌟 Key Features
 - **90-Ball Specialist:** Optimized for the 1-90 number range.
 - **Fast Selection:** Minimalist design focused on rapid, seamless number drawing.
